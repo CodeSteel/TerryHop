@@ -1,0 +1,72 @@
+.velocityLabelBackground {
+    position: absolute;
+    width: 300px;
+    font-size: 30px;
+    background-color: rgba(35, 35, 35, 0.4);
+    bottom: 20px;
+    font-size: 30px;
+    color: white;
+    align-items: center;
+    text-shadow: 0 0 5px black;
+    left: 800px;
+    text-align: center;
+    border-width: 2px;
+    border-color: rgba(255, 45, 45, 0.6);
+    box-shadow: 0 0 5px black
+}
+.velocityBackground {
+    background-color: rgba(255, 45, 45, 0.6);
+    box-shadow: 0 0 1px black;
+    width: 150px;
+    align-self: center;
+    padding: 10px;
+}
+.velocity {
+    width: 150px;
+
+}
+.velocityLabel {
+    position: absolute;
+    padding-left: 175px;
+    text-align: center;
+}
+
+.timerLabelBackground {
+    position: absolute;
+    width: 300px;
+    font-size: 30px;
+    background-color: rgba(35, 35, 35, 0.4);
+    top: 20px;
+    font-size: 30px;
+    color: white;
+    align-items: center;
+    text-shadow: 0 0 5px black;
+    left: 800px;
+    border-width: 2px;
+    border-color: rgba(255, 45, 45, 0.6);
+    box-shadow: 0 0 5px black
+}
+.timerBackground {
+    background-color: rgba(255, 45, 45, 0.6);
+    padding: 10px;
+    width: 160px;
+    text-align: center;
+    box-shadow: 0 0 1px black;
+}
+.timerLabel {
+    position: absolute;
+    padding-left: 195px;
+}
+.timer {
+    width: 140px;
+}
+
+.restartLabel {
+    position: absolute;
+    font-size: 20px;
+    color: grey;
+    left: 20px;
+    width: 170px;
+    text-align: center;
+    bottom: 30px;
+}
